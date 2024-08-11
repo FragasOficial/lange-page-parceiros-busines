@@ -4,7 +4,8 @@ body{
     font-family: "Quattrocento Sans", sans-serif;
     font-weight: 400;
     font-style: normal;
-    margin: auto;
+    margin: 0 auto;
+    background-color: pink;
   
 }
 
@@ -14,4 +15,13 @@ header{
 }
 h1{
     font-size: 5rem;
+}
+
+img{
+    background-color: transparent;
+}
+
+div{
+    display: flex;
+    justify-content: center;
 }
